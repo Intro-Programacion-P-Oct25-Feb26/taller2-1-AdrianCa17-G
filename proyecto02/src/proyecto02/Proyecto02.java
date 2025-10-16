@@ -15,6 +15,7 @@ public class Proyecto02 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Carrera de Ingenieria en Ciencias de la Computacion con 9 ciclos");
     }
     
 }
